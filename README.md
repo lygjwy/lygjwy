@@ -2,7 +2,7 @@
 > help --info
 > A PhD student in Department of Computer Science and Technology, Nanjing University
 > Interested in bash and machine learning
-> Want to do something useful
+> Want to do something useful & interesting
 ````
 
 ````bash
