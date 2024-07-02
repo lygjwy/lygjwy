@@ -1,8 +1,8 @@
 ````bash
 > help --info
-> A PhD student in Department of Computer Science and Technology, Nanjing University
-> Interested in bash and machine learning
-> Want to do something useful & interesting
+A PhD student in the Department of Computer Science and Technology, at Nanjing University
+Interested in Machine Learning and Human-Computer Interaction.
+Want to do something useful & interesting
 ````
 
 ````bash
