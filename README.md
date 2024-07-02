@@ -7,7 +7,7 @@ Want to do something useful & interesting
 
 ````bash
 > help --contact
-> mailto: lygjwy@qq.com
+mailto: lygjwy@qq.com
 ````
 
 ⭐ From [lygjwy](https://github.com/lygjwy)
